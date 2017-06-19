@@ -26,6 +26,7 @@ export PATH=$PATH:$ANDROID_NDK_HOME
 ```
 ### 下载mp3lame源码：
 http://lame.sourceforge.net/download.php
+
 http://lame.sourceforge.net/download.php
 - 解压mp3lame.tar.gz  ->  lame-3.99.5
 - 在jni目录下新建目录：lame-3.99.5_libmp3lame
