@@ -203,6 +203,8 @@ JNIEXPORT void JNICALL Java_com_android_cong_mediaeditdemo_audiomux_LameUtil_clo
 - 终端进入jni目录，使用ndk-build命令进行编译
 - 编译成功：
 
+![](https://github.com/xiaokc/Lame/tree/master/app/src/main/res/drawable/so_in_libs.jpeg)
+
 ### .so库的使用
 - 将编译生成的全部.so库拷贝到需要的项目module文件下的jniLibs，在LameUtil.java类中加载.so库：
 ```
